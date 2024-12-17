@@ -77,8 +77,8 @@ The Linear Regression model achieved high accuracy in predicting Turbine Energy 
 
 These results demonstrate the model's effectiveness in capturing the data variability and making accurate predictions.
 
-## 
-
+## AMN Al Turbine Energy Yield Predictor App 
+I am currently working on app development, where this model will come to life. This is a screenshot of the app in its development phase. Once completed, I will publish the app and provide all relevant details in a different repository. I will also update the README file here and add an app download button in the Downloads section below.
 ![git](https://github.com/user-attachments/assets/89cfdb91-3d9a-4bb7-9c48-4cb477bb00e3)
 
 
