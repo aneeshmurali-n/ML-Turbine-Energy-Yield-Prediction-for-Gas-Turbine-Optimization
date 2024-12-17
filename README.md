@@ -69,6 +69,9 @@ The dataset includes the following features:
 
 ## Results
 
+![Screenshot 2024-12-15 222943](https://github.com/user-attachments/assets/f97cbdf9-73ff-458c-a7bc-74f195014be3)
+
+
 The Linear Regression model achieved high accuracy in predicting Turbine Energy Yield (TEY), with:
 
 * MSE: 4.56
