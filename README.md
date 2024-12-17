@@ -77,6 +77,11 @@ The Linear Regression model achieved high accuracy in predicting Turbine Energy 
 
 These results demonstrate the model's effectiveness in capturing the data variability and making accurate predictions.
 
+## 
+
+![git](https://github.com/user-attachments/assets/89cfdb91-3d9a-4bb7-9c48-4cb477bb00e3)
+
+
 ## Conclusion
 
 This project successfully developed a machine learning model for predicting Turbine Energy Yield (TEY), offering valuable insights for optimizing gas turbine operations. The model can help power plant operators identify ideal turbine settings and operational conditions to maximize energy output, reduce costs, and implement predictive maintenance strategies.
