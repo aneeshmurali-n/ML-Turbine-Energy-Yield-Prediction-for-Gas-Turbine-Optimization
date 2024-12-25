@@ -67,6 +67,11 @@ The dataset includes the following features:
     * Linear Regression trained on the IQR outlier-capped dataset was selected as the best model.
     * The final model was saved using a pipeline, including preprocessing steps for seamless deployment.
 
+
+## Model Machine Learning Pipeline
+![image](https://github.com/user-attachments/assets/42578c0b-18d5-4640-b19b-b1783b1741ca)
+
+
 ## Results
 
 ![Screenshot 2024-12-15 222943](https://github.com/user-attachments/assets/f97cbdf9-73ff-458c-a7bc-74f195014be3)
