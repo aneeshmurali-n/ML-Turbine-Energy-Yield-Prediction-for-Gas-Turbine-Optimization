@@ -90,6 +90,12 @@ These results demonstrate the model's effectiveness in capturing the data variab
 I am currently working on app development, where this model will come to life. This is a screenshot of the app in its development phase. Once completed, I will publish the app and provide all relevant details in a different repository. I will also update the README file here and add an app download button in the Downloads section below.
 ![git](https://github.com/user-attachments/assets/89cfdb91-3d9a-4bb7-9c48-4cb477bb00e3)
 
+## App Update: Development Completed
+![image](https://github.com/user-attachments/assets/d8eddc6c-37dd-46db-aaeb-27e82fb90998)
+![image](https://github.com/user-attachments/assets/ac4db6ec-7b6d-418a-9131-12b1944cfc3c)
+
+
+
 
 ## Conclusion
 
