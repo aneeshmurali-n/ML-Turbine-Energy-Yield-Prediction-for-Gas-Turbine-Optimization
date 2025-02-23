@@ -123,7 +123,9 @@ This project successfully developed a machine learning model for predicting Turb
 
 
 ## Downloads
-[![Download](https://img.shields.io/badge/Download-Turbine_energy_yield_prediction_model-blue)](https://github.com/aneeshmurali-n/ML-Turbine-Energy-Yield-Prediction-for-Gas-Turbine-Optimization/raw/main/turbine_energy_yield_prediction_model_by_amn.zip)
+[![Download](https://img.shields.io/badge/Download_model-Turbine_energy_yield_prediction_model-blue)](https://github.com/aneeshmurali-n/ML-Turbine-Energy-Yield-Prediction-for-Gas-Turbine-Optimization/raw/main/turbine_energy_yield_prediction_model_by_amn.zip)
+
+[![Download](https://img.shields.io/badge/Download_App-Turbine_Ai_v1.0.0-blue)](https://github.com/aneeshmurali-n/AI-Turbine-Energy-Yield-Predictor/releases/download/v1.0.0/AMN.Ai.Turbine.Energy.Yield.Predictor.Setup.exe)
 
 
 
