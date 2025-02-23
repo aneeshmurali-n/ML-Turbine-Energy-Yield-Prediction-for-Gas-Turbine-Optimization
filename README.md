@@ -127,5 +127,9 @@ This project successfully developed a machine learning model for predicting Turb
 
 [![Download](https://img.shields.io/badge/Download_App-Turbine_Ai_v1.0.0-blue)](https://github.com/aneeshmurali-n/AI-Turbine-Energy-Yield-Predictor/releases/download/v1.0.0/AMN.Ai.Turbine.Energy.Yield.Predictor.Setup.exe)
 
+**To learn more about the app's development, check out our project AMN AI Turbine Energy Yield Predictor (Turbine AI) on GitHub.**
+
+🔗**GitHub:**[AMN AI Turbine Energy Yield Predictor / Turbine Ai](https://github.com/aneeshmurali-n/AI-Turbine-Energy-Yield-Predictor.git)  
+
 
 
